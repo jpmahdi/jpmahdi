@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpmahdi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning aws cloud
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in everything IT related 
+- 🌱 I’m currently learning AWS cloud
+- 💞️ I’m looking to collaborate on any projects benefitting our planet
 - 📫 How to reach me joshuapricemahdi@gmail.com
 
 <!---
